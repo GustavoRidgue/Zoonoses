@@ -1,17 +1,31 @@
 #conteudo {
-    padding: 125px 50px 10px;
+    padding: 100px 0px 10px;
 }
 
-.descricao {
-    padding: 0px 50px 0px;
+.container {
+    /* margin: 0px 5% 0px; */
+    width: auto!important;
+}
+
+.column {
+    padding: 0px 2% 0px;
 }
 
 .ad-card {
     margin: 25px 0px 25px;
+    width: 90%;
+}
+
+.read-more-card {
+    height: 10%;
+}
+
+.read-more-img {
+    height: 100px%;
 }
 
 #cookies .alert {
     width: 40%;
     height: auto;
-    margin: 0px 25px 25px;
+    margin: 0px 5% 5%;
 }
