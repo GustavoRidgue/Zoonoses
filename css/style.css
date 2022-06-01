@@ -16,6 +16,10 @@
     width: 90%;
 }
 
+.ad-card-img {
+    max-height: 30em;
+}
+
 .read-more-card {
     height: 10%;
 }
